@@ -1,10 +1,12 @@
 # optimization
 
 # 1. Nelder Mead Algorithms
-- 勉強ノート : Nelder Mead.ipynb
-
+Nelder Mead.ipynb
 
 # 2. Simplex Algorithms
+シンプレックス法.ipynb
 
-- 勉強ノート : シンプレックス法.ipynb
-- ライブラリ : module/LP.py
+# 3. Newton's Method
+ニュートン法.ipynb
+
+# 4. 
